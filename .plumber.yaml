@@ -21,7 +21,6 @@ github:
       trustedGithubActions:
         - actions/setup-python
         - ossf/scorecard-action
-        - gitleaks/gitleaks-action
         - getplumber/plumber
 
     # --- No mutable image tags ---
